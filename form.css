@@ -1,0 +1,25 @@
+#he{
+    color: blue;
+    font-size: 40px;
+    font-style:inherit;
+    text-align: center;
+}
+body{
+    width: 80%;
+    border: 20px solid #FF4191;
+    font-family: serif;
+    padding: 20px 20px 20px 20px;
+    margin: 20px auto;
+    max-width: 700px;
+}
+#Doctor-appoi{
+    color: black;
+    background-color: azure;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.sy{
+    color: #FF4191;
+}
+.sys select option{
+    color: blue;
+}
